@@ -1,6 +1,7 @@
 // Based on Square Waves by David Crooks https://www.openprocessing.org/sketch/388175
 // Artwork online on Redbubble at: https://www.redbubble.com/people/rupertrussell/works/33872495-square-wave-002?asc=u
 // Fork by Rupert Russell 13 September 2018
+// Writtein in Processing see: https://processing.org/
 
 Agent[] agents;
 int numPerSide =5;
